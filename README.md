@@ -4,7 +4,7 @@
 디지털 신호 처리 과목 기말 프로젝트 코드입니다. 노트북의 스피커와 마이크를 이용해 주변의 물체를 탐지하는 소나를 구현했습니다.
 
 ## Mission
-chirp 신호로 pulse train을 스피커로 출력, 반사된 소리를 cross-correlation하여 주변 물체와의 거리 도출하는 함수 구현.
+chirp 신호로 pulse train을 스피커로 출력, 반사된 소리를 cross-correlation하여 주변 물체와의 거리를 도출하는 함수 구현.
 
 ## Environment
  - anaconda 2
